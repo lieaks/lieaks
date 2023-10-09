@@ -1,5 +1,10 @@
 ### Hi there, I'm David 👋
 
+I was a Specialty Coffee professional and I retrained toward tech industry with the same passion for well crafted products and attention to detail, willing to integrate a tech team and bring my creativity and expertise in.  
+I am now a École 42 Paris student willing to keep the never-ending learning process going to adapt to your projects and help bring them further.  
+Reach me now to know how we can collaborate by email: david_ly@hotmail.fr
+Currently open to Paris based opportunities, remote or partial remote are welcome too.
+
 <!--
 **lieaks/lieaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
